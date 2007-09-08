@@ -1,0 +1,7 @@
+<!ELEMENT diary    (event+)>
+<!ELEMENT event       (comment, date, hours, minutes)>
+
+<!ELEMENT comment       (#PCDATA)>
+<!ELEMENT date         (#PCDATA)>
+<!ELEMENT hours    (#PCDATA)>
+<!ELEMENT minutes (#PCDATA)>
