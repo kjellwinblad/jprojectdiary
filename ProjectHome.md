@@ -1,0 +1,1 @@
+This is a simple program that is used to keep track of what time have been spent on in a project. It has a simple GUI to add and view diary entries. The diary can be saved to a file and exported to a HTML-file. The program is made with Java.
